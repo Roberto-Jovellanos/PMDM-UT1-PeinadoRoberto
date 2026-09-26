@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PMDM_UT1_Base"
+rootProject.name = "PMDM_UT1_RobertoPeinado"
 include(":app")
